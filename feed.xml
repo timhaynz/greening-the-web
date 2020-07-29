@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>GreeningTheWeb</title>
+    <link href="https://timhaynz.github.io/greening-the-web/feed.xml" rel="self" />
+    <link href="https://timhaynz.github.io/greening-the-web" />
+    <updated>1970-01-01T12:00:00+12:00</updated>
+    <author>
+        <name>Tim Hay</name>
+    </author>
+    <id>https://timhaynz.github.io/greening-the-web</id>
+
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Tim Hay</name>
+        </author>
+        <link href="https://timhaynz.github.io/greening-the-web/about/"/>
+        <id>https://timhaynz.github.io/greening-the-web/about/</id>
+
+        <updated>2020-07-29T22:20:06+12:00</updated>
+            <summary>
+                <![CDATA[
+                     The internet is growing incredibly fast and its power demands are also increasingly along with it. We rarely give any thought to the how much electricity is being consumed each time we do a web-search, watch streamed movies, download music, create our own websites&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    The internet is growing incredibly fast and its power demands are also increasingly along with it. We rarely give any thought to the how much electricity is being consumed each time we do a web-search, watch streamed movies, download music, create our own websites or have email accounts with thousands of emails.&nbsp;
+  </p>
+
+  <p>
+    In fact, the internet is growing so fast that its contribution to atmospheric CO2 is now on a par with the entire airline industry (though during the Covid pandemic, air traffic has been considerably reduced, while internet usage has increased). At the current rate of growth, the internet may contribute 30% of all human-produced greenhouse gases by 2030.&nbsp;
+  </p>
+
+  <p>
+    As well as using public transport, solar panels and better insulation in our homes, driving electric cars, flying less, reducing meat consumption, buying local food as much as possible, reusing and recycling, and all the other things we can do to reduce our environmental impact, we should also think about greener ways to use the use the internet.
+  </p>
+
+  <p>
+    There are many things we can do to reduce our carbon footprint and environmental impact when we are online:
+  </p>
+
+  <ul>
+    <li>Switch to an email provider that runs on sustainable energy sources, such as Runbox or Tutanota. Clean up your email and delete old emails that you don't need. Unsubscribe from email newsletters that you never have time to read.</li><li>Consider downloading music that you listen to regularly rather than streaming it every time.</li><li>Use eco-friendly, green hosting companies such as GreenGeeks or A2 Hosting for your business or blog website.&nbsp;</li><li>Or if you are computer-savvy, consider creating a static website, which uses much less resources and memory than a dynamic site like Wordpress.</li><li>Whenever possible, use laptops as they consume much less power than desktop machines. Also, when comparing between different laptops, desktops and screens, remember that different models can vary a lot in their power consumption.</li><li>Look for the most eco-friendly computer manufacturers that use more recyclable materials, and take your electronics to recyclers at the end of their life rather than just dumping them.</li><li>Instead of Google, why not use Ecosia for your web searches. Every time you do a search, a percentage of the profits are donated to tree-planting projects.</li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
+</feed>

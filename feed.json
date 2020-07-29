@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GreeningTheWeb",
+    "description": "",
+    "home_page_url": "https://timhaynz.github.io/greening-the-web",
+    "feed_url": "https://timhaynz.github.io/greening-the-web/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tim Hay"
+    },
+    "items": [
+        {
+            "id": "https://timhaynz.github.io/greening-the-web/about/",
+            "url": "https://timhaynz.github.io/greening-the-web/about/",
+            "title": "About",
+            "summary": " The internet is growing incredibly fast and its power demands are also increasingly along with it. We rarely give any thought to the how much electricity is being consumed each time we do a web-search, watch streamed movies, download music, create our own websites&hellip;",
+            "content_html": "\n  <p>\n    The internet is growing incredibly fast and its power demands are also increasingly along with it. We rarely give any thought to the how much electricity is being consumed each time we do a web-search, watch streamed movies, download music, create our own websites or have email accounts with thousands of emails.&nbsp;\n  </p>\n\n  <p>\n    In fact, the internet is growing so fast that its contribution to atmospheric CO2 is now on a par with the entire airline industry (though during the Covid pandemic, air traffic has been considerably reduced, while internet usage has increased). At the current rate of growth, the internet may contribute 30% of all human-produced greenhouse gases by 2030.&nbsp;\n  </p>\n\n  <p>\n    As well as using public transport, solar panels and better insulation in our homes, driving electric cars, flying less, reducing meat consumption, buying local food as much as possible, reusing and recycling, and all the other things we can do to reduce our environmental impact, we should also think about greener ways to use the use the internet.\n  </p>\n\n  <p>\n    There are many things we can do to reduce our carbon footprint and environmental impact when we are online:\n  </p>\n\n  <ul>\n    <li>Switch to an email provider that runs on sustainable energy sources, such as Runbox or Tutanota. Clean up your email and delete old emails that you don't need. Unsubscribe from email newsletters that you never have time to read.</li><li>Consider downloading music that you listen to regularly rather than streaming it every time.</li><li>Use eco-friendly, green hosting companies such as GreenGeeks or A2 Hosting for your business or blog website.&nbsp;</li><li>Or if you are computer-savvy, consider creating a static website, which uses much less resources and memory than a dynamic site like Wordpress.</li><li>Whenever possible, use laptops as they consume much less power than desktop machines. Also, when comparing between different laptops, desktops and screens, remember that different models can vary a lot in their power consumption.</li><li>Look for the most eco-friendly computer manufacturers that use more recyclable materials, and take your electronics to recyclers at the end of their life rather than just dumping them.</li><li>Instead of Google, why not use Ecosia for your web searches. Every time you do a search, a percentage of the profits are donated to tree-planting projects.</li>\n  </ul>",
+            "author": {
+                "name": "Tim Hay"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-29T22:20:07+12:00",
+            "date_modified": "2020-07-29T22:20:07+12:00"
+        }
+    ]
+}
